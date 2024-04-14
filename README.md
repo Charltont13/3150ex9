@@ -1,11 +1,6 @@
 # 3D Triangle Area Calculator
 
-This project contains a C++ application that calculates the area of a triangle in 3D space using the coordinates of its vertices.
-
-## Overview
-
-The application uses a `Point3d` class to represent the vertices of the triangle in 3D space. It then calculates the distances between each pair of points and applies Heron's formula to determine the area of the triangle.
-
+A C++ application that calculates the area of a triangle in 3D space using the coordinates of its vertices.
 
 
 ## Tests
